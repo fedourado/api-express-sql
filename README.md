@@ -24,7 +24,7 @@ Para usar a API, você precisa ter o Node.js instalado em seu sistema. Depois de
 ```
 POSTGRES_URL = <a url disponibilizada no ElephantSQL>
 ```
-6. Execute o comando `npm dev` para iniciar a API.
+5. Execute o comando `npm dev` para iniciar a API.
 
 * OBS: Para encontrar a URL no site do ElephantSQL é preciso clicar na instância criada e ir em `Datails`.
  
